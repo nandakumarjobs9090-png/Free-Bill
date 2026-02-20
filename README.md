@@ -7,7 +7,7 @@ An elegant, secure, and cloud-synced billing management tool for small businesse
 
 To run Free Bill as a standalone Windows app or on your local machine, follow these exact steps:
 
-1. **Download Project**: Click the 'Download' button in the Firebase Studio sidebar.
+1. **Download Project**: 
 2. **Extract**: Unzip the downloaded file into a dedicated folder (e.g., `C:\Projects\FreeBill`).
 3. **Open Terminal**: Open your terminal (PowerShell or Command Prompt) and navigate to that folder:
    ```bash
